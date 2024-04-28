@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ___________________FermentingBarrel_____________________ -->
+
+  <Make_Ethanol.label>Make moonshine</Make_Ethanol.label>
+  <Make_Ethanol.description>Produce primitive Ethanol. Will take 2 days</Make_Ethanol.description>
+
+
+</LanguageData>
